@@ -1,0 +1,19 @@
+
+config: config.yml
+test_dir: .\\data
+datasets_dir: .\\data
+#test_list_file: E:\cloud-remove\data\test_list.txt
+test_list_file: .\\data\\test_list.txt
+out_dir: .\result
+out_log_dir: .\\result\\epoch_0001
+
+pretrained: gen_model.pth
+
+cuda: True
+gpu_ids: [0]
+manualSeed: 0
+width: 256
+height: 256
+is_use_cloudmask: False
+crop_size: 256
+load_size: 256
