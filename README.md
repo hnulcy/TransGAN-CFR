@@ -12,6 +12,6 @@ Extract the downloaded folder
 
 Put data folder 'data' and trained weights 'gen_model.pth' to the directory at the same level as pytransform
 
-Configure the environment according to 'environment.yaml'
+Configure the environment according to 'environment.yaml' and 'requirements.txt'
 
 Run 'pre_evaluation.py'
