@@ -1,6 +1,7 @@
 # TransGAN-CFR
 IEEE_TGRS
 
+Since the source code is being refactored and involved in our subsequent work, we will gradually make the editable code public as the relevent works are published.
 
 The data and weights used can be downloaded here:
 
