@@ -16,3 +16,6 @@ Put data folder 'data' and trained weights 'gen_model.pth' to the directory at t
 Configure the environment according to 'environment.yaml' and 'requirements.txt'
 
 Run 'pre_evaluation.py'
+
+Update:
+Folder 'modelopen' consists the editable code of generative network and the discriminative network.
