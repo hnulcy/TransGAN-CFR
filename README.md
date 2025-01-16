@@ -17,5 +17,17 @@ Configure the environment according to 'environment.yaml' and 'requirements.txt'
 
 Run 'pre_evaluation.py'
 
-Update:
+##Update:
 Folder 'modelopen' consists the editable code of generative network and the discriminative network.
+##Citation
+@ARTICLE{10304577,
+  author={Li, Congyu and Liu, Xinxin and Li, Shutao},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Transformer Meets GAN: Cloud-Free Multispectral Image Reconstruction via Multisensor Data Fusion in Satellite Images}, 
+  year={2023},
+  volume={61},
+  number={},
+  pages={1-13},
+  keywords={Clouds;Optical sensors;Optical imaging;Cloud computing;Image reconstruction;Adaptive optics;Synthetic aperture radar;Cloud removal;generative adversarial network (GAN);image fusion;optical image;synthetic aperture radar (SAR) image;transformer},
+  doi={10.1109/TGRS.2023.3326545}}
+
